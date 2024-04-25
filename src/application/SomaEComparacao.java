@@ -23,10 +23,6 @@ public class SomaEComparacao {
 			System.out.println("A soma de A e B não é menor que C.");
 		}
 		
+		sc.close();
 	}
-	
-	
-	
-	
-	
 }
